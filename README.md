@@ -8,7 +8,7 @@ Ubuntu
 Postgres 12 -Nodejs 8.11.3
 Docker pyCsw - docker pull geopython/pycsw
 
-# Run
+## Run
 npm install express
 npm install request
 node adept-app-min.js
