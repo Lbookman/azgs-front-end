@@ -1,0 +1,25 @@
+{
+  "name": "Adept",
+  "version": "1.0.0",
+  "description": "Adept User Interface",
+  "main": "adept-app-min.js",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "pg": "^7.8.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node adept-app-min.js",
+    "poststart": "echo $NODE_PATH"
+  },
+  "keywords": [
+    "adept"
+  ],
+  "author": "Gary Hudman"
+}
