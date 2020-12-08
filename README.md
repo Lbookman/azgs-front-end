@@ -13,7 +13,7 @@ Change gdUrl in adeptUI.js to api
 Change var Path in adept-app-min.js to the locatin of the scripts 
 
 ## Run
-1.  Run 'npm install express'
-2. Run 'npm install request'
-3. Run 'node adept-app-min.js'
+1.  Run `npm install express`
+2. Run `npm install request`
+3. Run `node adept-app-min.js`
 
