@@ -4,9 +4,9 @@ front end application code and ensure it is properly invoking and responding to 
 
 ## Requirements
 
-*Ubuntu
-*Postgres 12 -Nodejs 8.11.3
-*Docker pyCsw - docker pull geopython/pycsw
+* Ubuntu
+* Postgres 12 -Nodejs 8.11.3
+* Docker pyCsw - docker pull geopython/pycsw
 
 ## Run
 1. npm install express
