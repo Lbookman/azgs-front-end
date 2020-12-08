@@ -9,7 +9,7 @@ Postgres 12 -Nodejs 8.11.3
 Docker pyCsw - docker pull geopython/pycsw
 
 ## Run
-npm install express
-npm install request
-node adept-app-min.js
+1. npm install express
+2. npm install request
+3. node adept-app-min.js
 
