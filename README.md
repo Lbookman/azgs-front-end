@@ -13,3 +13,6 @@ Docker pyCsw - docker pull geopython/pycsw
 2. npm install request
 3. node adept-app-min.js
 
+# Setup 
+Change gdUrl in adeptUI.js to api 
+
