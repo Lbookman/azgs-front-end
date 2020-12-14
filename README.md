@@ -10,7 +10,7 @@ front end application code and ensure it is properly invoking and responding to 
 
 ## Setup 
 * Change gdUrl in adeptUI.js to api 
-'var gdUrl='https://xdd.wisc.edu/api/v1';'
+*` var gdUrl='https://api.edu';`
 * Change var Path in adept-app-min.js to the locatin of the scripts 
 
 ## Run
