@@ -12,6 +12,7 @@ front end application code and ensure it is properly invoking and responding to 
 * Change gdUrl in adeptUI.js to currect api 
   `var gdUrl='https://api.edu';`
 * Change var Path in adept-app-min.js to the locatin of the scripts 
+`var  Path = 'C:\\Documents\\azgs-front-end';`
 
 ## Run
 1.  Run `npm install express`
