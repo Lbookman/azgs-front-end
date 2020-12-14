@@ -9,8 +9,8 @@ front end application code and ensure it is properly invoking and responding to 
 * Docker pyCsw - docker pull geopython/pycsw
 
 ## Setup 
-* Change gdUrl in adeptUI.js to api 
-*` var gdUrl='https://api.edu';`
+* Change gdUrl in adeptUI.js to currect api 
+  `var gdUrl='https://api.edu';`
 * Change var Path in adept-app-min.js to the locatin of the scripts 
 
 ## Run
