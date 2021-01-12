@@ -19,3 +19,5 @@ front end application code and ensure it is properly invoking and responding to 
 2. Run `npm install request`
 3. Run `node adept-app-min.js`
 
+## Help 
+
